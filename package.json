@@ -1,5 +1,5 @@
 {
-  "name": "@hapi/joi",
+  "name": "joi15custom",
   "description": "Object schema validation",
   "version": "1.0.0",
   "homepage": "https://github.com/davidbnk/joi15custom",
